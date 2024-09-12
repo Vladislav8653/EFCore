@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "QAuMgGi82d7Mm+hU6frZVk96E+gS1SZOH+66AIlXyOk=",
+  "Source": "LearningPlatform",
+  "BasePath": "_content/LearningPlatform",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\my_code\\entity framework\\LearningPlatform\\LearningPlatform.DataAccess.Postgres\\LearningPlatform.DataAccess.Postgres.csproj",
+      "Version": 2,
+      "Source": "LearningPlatform.DataAccess.Postgres",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

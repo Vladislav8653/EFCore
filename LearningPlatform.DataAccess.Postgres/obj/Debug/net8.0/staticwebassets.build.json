@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k/GvxckSFGW4xQ3yErt6fjpcxfXoI+lHkN/m81bF/N8=",
+  "Source": "LearningPlatform.DataAccess.Postgres",
+  "BasePath": "_content/LearningPlatform.DataAccess.Postgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
