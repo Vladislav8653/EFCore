@@ -1,2 +1,2 @@
 # EFCore
-## Testing Entity Framework Core and Postgres
+## Testing Entity Framework Core and PostgreSQL
